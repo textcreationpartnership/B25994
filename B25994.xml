@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Lillies astrologcal [sic] predictions for the year, 1677 Wherein is plainly expressed, and by the rules of astrology proved; the happy condition of this our nation for the year ensuing. As first, the peace of our nation. Secondly, the happy return of our merchants. Thirdly, the great blessing of God upon our harvest. And fourthly, the safe delivery of women with childe, who will this year be very fruitful. With several other questions for young-men and maids. With allowance.</title>
+            <author>Lilly, William, 1602-1681.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25994</idno><idno type="EEBO-CITATION">99830751</idno>
+  <idno type="VID">207387</idno>
+  <idno type="EEBO-PROQUEST">2240864292</idno>
+  
+            <idno type="STC">Wing L2213</idno>
+            <idno type="PROQUEST">99830751</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99830751e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25994)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207387)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2092:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Lillies astrologcal [sic] predictions for the year, 1677 Wherein is plainly expressed, and by the rules of astrology proved; the happy condition of this our nation for the year ensuing. As first, the peace of our nation. Secondly, the happy return of our merchants. Thirdly, the great blessing of God upon our harvest. And fourthly, the safe delivery of women with childe, who will this year be very fruitful. With several other questions for young-men and maids. With allowance.</title>
+                  <author>Lilly, William, 1602-1681.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Passinger next door to the sign of the Meir-maid in the New-buildings on London-bridge,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1677?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication conjectured by cataloger.</note>
+                  <note>Caption title on p. 1 reads: Of the strange revolutions for the present year, 1677.</note>
+                  <note>Copy closely trimmed at head.</note>
+                  <note>Reproduction of the original in the Bodleian Library, Oxford.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Predictive astrology --  Early works to 1800.</term>
+               <term type="topical_term">Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207387:1"/>
+            <p>M<seg rend="sup">r.</seg> LILLIES A strologcal Predictions For the Year, 1677.</p>
+            <p>Wherein is plainly Expressed, and by the Rules of Astrology Proved; The Hap<g ref="char:EOLhyphen"/>py Condition of this our Nation for the year Ensuing.</p>
+            <p>As First, <hi>THE PEACE OF OƲR NATION.</hi>
+            </p>
+            <p>Secondly, <hi>THE HAPPY RETƲRN OF OƲR MERCHANTS.</hi>
+            </p>
+            <p>Thirdly, <hi>THE GREAT BLESSING OF GOD ƲPON OƲR HARVEST.</hi>
+            </p>
+            <p>And Fourthly, <hi>THE SAFE DELIVERY OF WOMEN WITH CHILDE,</hi> who will this Year be very Fruitful.</p>
+            <p>With Several other Questions for <hi>Young-men</hi> and <hi>Maids.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>WITH ALOWANCE.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Printed for <hi>T. Passinger</hi> next door to th<gap reason="illegible: cropped or obscured edge" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> sign of the <hi>Meir-maid</hi> in the <hi>New-buildings</hi> on <hi>London-bridge.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:207387:2"/>
+            <pb n="1" facs="tcp:207387:2"/>
+            <head>Of the Strange Revolutions for the present year, 1677.</head>
+            <p>I Refer the Curious Reader to our Yearly Pre<g ref="char:EOLhyphen"/>dictions, and shall omit any Respetiation of the actions in <hi>Flanders, Holland, Germany,</hi> and <hi>Poland,</hi> and other Countries, least you should condemn me for being tedious; I shall there<g ref="char:EOLhyphen"/>fore proceed to give you an account of my Astrolo<g ref="char:EOLhyphen"/>gical Predictions for the Year ensuing 1677.</p>
+            <p>And we must begin with the Suns ingress into <hi>Aries,</hi> and here you will find <hi>Scorpio</hi> ascending, and <hi>Mars</hi> Lord, yet still continuing in <hi>Cancer,</hi> which seems to dispose of the actions of your Spring into some unpleasant consequence, to forraign Nations e<g ref="char:EOLhyphen"/>specially. Experience tells us very often, that a Pla<g ref="char:EOLhyphen"/>net placed against ♌ opposite unto any of the hea<g ref="char:EOLhyphen"/>venly Houses, is of very bad significtion; <hi>Taurus</hi>
+               <pb n="2" facs="tcp:207387:3"/>and <hi>Mars</hi> to which <hi>Sol</hi> may be added, are the greatest designers of the grand transactions for the Vernal Quarter, and they seem to threaten many unto<g ref="char:EOLhyphen"/>ward accidents, as Robberies on Land, Man slaugh<g ref="char:EOLhyphen"/>ters, and Murthers, Piracies and Shipwracks at Sea, great loss to Forraign Nations by Sailors, and Rain as well as armies, the Souldiers in some places in<g ref="char:EOLhyphen"/>sult, and are very tumultuary, for which they shall receive condigne punishments: Many distempers are like to seize Mankind, as Feavers, Frenzies, Inflamations, with some pestilential Distempers, occasioned by too much and immoderate drinking, which God Almighty prevent yet the condition; of the common people is like to be very good and fortunate this Year, and they will be happy and peaceable; the Spring season seems to encourage the Ingenious Citizen in a very good trade, which seems to flourish more them some years past, the Wea<g ref="char:EOLhyphen"/>ther is very good for the Country-man, many happy showers refreshing the Corn, making his hopes in<g ref="char:EOLhyphen"/>crease for a happy crop.</p>
+            <p>But to proceed to the Summer Quarter, <hi>June</hi> the Tenth at Twenty Minutes past Midnight, is the Suns ingress into <hi>Cancer,</hi> and <hi>Mars</hi> ad<g ref="char:EOLhyphen"/>vanced into the 24 degree of <hi>Leo,</hi> I will not trouble my Reader with many ambiguous Words, but tell him briefly what are like to be the actions and Nego<g ref="char:EOLhyphen"/>tiations of this Quarter, if our rules fail not. <hi>Ju<g ref="char:EOLhyphen"/>piter</hi> is in opposition to <hi>Leo</hi> and <hi>Aquarius;</hi> the sword i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> like to be dipped in more blood in <hi>Germany,</hi> and
+<pb n="3" facs="tcp:207387:3"/>those parts, many quarrels at Sea and Land for Do<g ref="char:EOLhyphen"/>minion are like to arise; those diseases mentioned in the Spring Quarter are like to continue, if not increase in the Summer; but I hope God Almighty will protect <hi>England</hi> from any of those miseries, which other parts are threatened withall in most Nations in <hi>Europe</hi> matters will be carried very high, as some gain, others will loose ground; the Weather is like to prove very hot, Thunders and Lightnings very frequent; yet not to prevent a propitilous Harvest, the Country-man his heart is glad, and he huggs himself with the hopes of his succeeding Crop.</p>
+            <p>The Autumnal Quarter begins the 12th. of <hi>September,</hi> 3 hours, 57 minutes past midnight, then the Sun enters <hi>Libra,</hi> and who shall we find there but <hi>Mars, Venus,</hi> and <hi>Mercury;</hi> this figure something agrees with the Spring figure, many publick Negotiations are abroad in order to peace in forraign parts, and the Sword will not reap so great a share as in the two former quar<g ref="char:EOLhyphen"/>ters, by reason we find <hi>Jupiter</hi> Lord of the as<g ref="char:EOLhyphen"/>cendant in <hi>Aquarius</hi> Rhetrograde. Yet I per<g ref="char:EOLhyphen"/>ceive a Position of Four plainly in the Eighth house, which we usually call the house of Death: this should give us notice of some Malignant Distemper which will probably seize Man-kind in many parts of <hi>Europe:</hi> which will carry many to their long homes; although by our Predictions these Distempers do not seem to threaten any of his most Gracious Majesties Domini<g ref="char:EOLhyphen"/>ons, yet it is not safe to be too secure, and a timely</p>
+            <gap reason="missing" extent="2 pages">
+               <desc>〈2 pages missing〉</desc>
+            </gap>
+         </div>
+         <div type="poem">
+            <pb n="6" facs="tcp:207387:4"/>
+            <head>A POEM.</head>
+            <lg>
+               <l>GOd's favour's like the Sun, whose beams appear,</l>
+               <l>To all that dwell in the Worlds Hemisphere;</l>
+               <l>Though not to all alike, to some they express</l>
+               <l>Themselves more Radiant, and to other less:</l>
+               <l>The other Planets to some propitious fall,</l>
+               <l>Yet all by Gods Decree, who Ruleth all;</l>
+               <l>Did not our interposed sins make Night,</l>
+               <l>It would be Day, and that Day alwayes bright;</l>
+               <l>We need not fear Plague, Poverty, or Sword</l>
+               <l>Nor e're be puzzled at so poor a word;</l>
+               <l>The Year would whirl about in happy mirth,</l>
+               <l>And <hi>O be joyful</hi> sung throughout the Earth;</l>
+               <l>Ʋnhappy sin! that did it so much deface,</l>
+               <l>The intended beauty of all <hi>Adams</hi> Race;</l>
+               <l>And laid us under God Almighties hand,</l>
+               <l>Whose mighty power none's able to withstand;</l>
+               <l>Let's now repent, least we too soon are hurl'd</l>
+               <l>Before next year into another World.</l>
+            </lg>
+            <trailer>FIN<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>S.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
